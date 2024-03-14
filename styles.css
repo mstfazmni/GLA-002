@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    text-align: center;
+    align-items: center;
+}
+img{
+    width: 200px;
+}
+.App{
+    width: 700px;
+    padding: 25px;
+    box-shadow: 0px 15px 15px gray;
+    background-color: rgb(247, 249, 254);
+    margin: 0 auto;
+    padding: auto;
+}
+
+select{
+    border-radius: 5px;
+    padding: 3px;
+}
+
+.title{
+    background-color: rgba(3, 3, 3, 0.719);
+    padding: 7px;
+    border-radius: 5px;
+    color: white;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
